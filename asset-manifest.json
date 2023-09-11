@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/2.0TrainingProject/static/css/main.85a1165c.css",
+    "main.js": "/2.0TrainingProject/static/js/main.a9819ff7.js",
+    "static/js/787.d3befce1.chunk.js": "/2.0TrainingProject/static/js/787.d3befce1.chunk.js",
+    "static/media/IndiaPostLogo.png": "/2.0TrainingProject/static/media/IndiaPostLogo.f9753ed2c5902f907a7c.png",
+    "index.html": "/2.0TrainingProject/index.html",
+    "main.85a1165c.css.map": "/2.0TrainingProject/static/css/main.85a1165c.css.map",
+    "main.a9819ff7.js.map": "/2.0TrainingProject/static/js/main.a9819ff7.js.map",
+    "787.d3befce1.chunk.js.map": "/2.0TrainingProject/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85a1165c.css",
+    "static/js/main.a9819ff7.js"
+  ]
+}
