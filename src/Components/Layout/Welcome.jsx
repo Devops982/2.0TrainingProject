@@ -24,6 +24,17 @@ const Welcome = () => {
             <button>New Component</button>
           </NavLink>
         </ul>
+        <ul className="m-6">
+          <NavLink to="Admin/Admin1">
+            <button className="bg-red-600">Admin Dashboard</button>
+          </NavLink>
+        </ul>
+
+        <ul className="m-6">
+          <NavLink to="Admin/Changeprofile">
+            <button className="bg bg-yellow-400">Admin Profile updation</button>
+          </NavLink>
+        </ul>
       </div>
     </div>
   );
